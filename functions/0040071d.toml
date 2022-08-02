@@ -1,7 +1,7 @@
 [metadata]
 addr = 4196125
 size = 184
-last_change = 1659473193
+last_change = 1659473201
 
 [stack_vars.-2c]
 last_change = 1659473169
@@ -17,6 +17,15 @@ last_change = 1659473193
 stack_offset = -24
 stack_offset_type = 1
 name = "buf2"
+type = "char[16]"
+size = 16
+addr = 4196125
+
+[stack_vars.-28]
+last_change = 1659473201
+stack_offset = -40
+stack_offset_type = 1
+name = "bu1"
 type = "char[16]"
 size = 16
 addr = 4196125
