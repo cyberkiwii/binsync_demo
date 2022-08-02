@@ -4,10 +4,9 @@ size = 184
 last_change = 1659469243
 
 [stack_vars.-28]
-last_change = 1659469235
 stack_offset = -40
 stack_offset_type = 1
-name = "my_buf1"
+name = "targets_password"
 type = "char[16]"
 size = 16
 addr = 4196125
