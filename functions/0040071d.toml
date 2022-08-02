@@ -1,13 +1,22 @@
 [metadata]
 addr = 4196125
 size = 184
-last_change = 1659468298
+last_change = 1659468304
 
 [stack_vars.-28]
 last_change = 1659468298
 stack_offset = -40
 stack_offset_type = 1
 name = "targets_password"
+type = "char[16]"
+size = 16
+addr = 4196125
+
+[stack_vars.-18]
+last_change = 1659468304
+stack_offset = -24
+stack_offset_type = 1
+name = "targets_buff"
 type = "char[16]"
 size = 16
 addr = 4196125
